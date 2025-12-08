@@ -1,2 +1,5 @@
-/qwen3vl-2b
+/Base-2b
 /unsloth_compiled_cache
+/fine_tuned_model
+/x-ray-agent-v2-checkpoints
+/x-ray-agent
